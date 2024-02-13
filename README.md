@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://www.learnenough.com/certificates/BasantMagar"><img src="https://www.learnenough.com/certificates/BasantMagar/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
 
 <!--
 **BasantGharti/BasantGharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
