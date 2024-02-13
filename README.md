@@ -1,3 +1,6 @@
+Basant Raj Gharti Magar's GitHub Profile
+This includes examples of certificates of completion from Learn Enough
+
 <a href="https://www.learnenough.com/certificates/BasantMagar"><img src="https://www.learnenough.com/certificates/BasantMagar/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
 
 <!--
