@@ -1,8 +1,8 @@
 Basant Raj Gharti Magar's GitHub Profile <br>
 This includes examples of certificates of completion from Learn Enough
 
-<a href="https://www.learnenough.com/certificates/BasantMagar"><img src="https://www.learnenough.com/certificates/BasantMagar/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
-<a href="https://www.learnenough.com/certificates/BasantMagar"><img src="https://www.learnenough.com/certificates/BasantMagar/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a>
+
+<a href="https://www.learnenough.com/certificates/BasantMagar"><img src="https://www.learnenough.com/certificates/BasantMagar/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/BasantMagar"><img src="https://www.learnenough.com/certificates/BasantMagar/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/BasantMagar"><img src="https://www.learnenough.com/certificates/BasantMagar/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
 <!--
 **BasantGharti/BasantGharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
